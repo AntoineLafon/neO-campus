@@ -7,6 +7,7 @@ a graphic interface and a set of tool analysis to monitor captors through a wire
 
 ## How to test it?
 run the main java file in (src folder), then run capteur.jar (in CaptorSim folder) that is an application that simulate captor
+(do not forget to create a data base with the SQL file)
 
 ## Required java libraries
 - MySQL connector [link](https://www.jfree.org/jfreechart/)
